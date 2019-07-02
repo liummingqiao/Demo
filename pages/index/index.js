@@ -20,6 +20,7 @@ Page({
       url: '../logs/logs'
     })
   },
+  //这是一个生命周期刚加载时自动运行的程序
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({
