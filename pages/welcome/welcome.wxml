@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view>
+    <image src="../../images/YDS.png"></image>
+    <image src="../../images/button.png" id="bg2" catchtap='toIndex'></image>
+
+  </view>
+</view>
