@@ -25,8 +25,8 @@
     <view class="ubom"></view>
 	
 	<view class="utitle">
-        <view class="mtitle">特色课程</view>
-        <view class="ztitle">characteristic</view>
+        <view class="mtitle">学院简介</view>
+        <view class="ztitle">Brief introduction of the college</view>
     </view> 
 	<view class="introduct">
 	<view class="inner">

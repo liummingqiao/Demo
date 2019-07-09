@@ -20,19 +20,19 @@ Page( {
         {
 		  url:'/pages/list/index',
           image: '/image/i1.png',
-          text: '课程介绍'
+          text: '学院概况'
         }, {
 	      url:'/pages/strength/index',
           image: '/image/i2.png',
-          text: '师资力量'
+          text: '教育教学'
         }, {
 		  url:'/pages/mien/index',
           image: '/image/i3.png',
-          text: '学员风采'
+          text: '科教研究'
         }, {
 		  url:'/pages/contact/index',
           image: '/image/i4.png',
-          text: '联系我们'
+          text: '学团工作'
         }
       ]
   },
